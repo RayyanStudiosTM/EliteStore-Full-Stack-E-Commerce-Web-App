@@ -72,7 +72,7 @@ Before you begin, ensure you have the following installed:
 
 1.  **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/elitestore.git
+    git clone [https://github.com/your-username/elitestore.git](https://github.com/RayyanStudiosTM/EliteStore-Full-Stack-E-Commerce-Web-App.git)
     cd elitestore
     ```
 
@@ -182,7 +182,6 @@ We welcome contributions from the community! Here’s how you can help:
 
 ## 📄 License
 
-📜 License & Usage
 This project is not open-source for commercial use.
 You may not use, modify, or distribute this code for any commercial purposes without explicit permission from the author.
 ```
